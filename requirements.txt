@@ -1,0 +1,8 @@
+Pandas==0.20.1
+json==2.0.9
+numpy==1.15.2
+nltk==3.2.3
+sklearn==0.18.1
+mord==0.6
+xgboost==0.80
+matplotlib==2.0.2
